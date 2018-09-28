@@ -33,7 +33,7 @@ namespace homework2_3
             Console.WriteLine("2-100以内的素数有：");
             for(int k=0;k<100;k++)
             {
-                if ( num[k]!= 0)
+                 if ( num[k]!= 0)
                 {
                     Console.Write(num[k] + " ");
                 }
